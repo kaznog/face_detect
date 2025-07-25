@@ -1,5 +1,6 @@
 # face_detect
 face recognition YOLO detect MediaPipe hands and pose recognition
+It must be referenced either by CMake or through a path.
 
  📸 1. Capture the face of the person to be trained
  ```
